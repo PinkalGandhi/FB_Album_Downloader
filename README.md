@@ -5,12 +5,12 @@ For that, you need to download or clone facebook PHP-graph-SDK from the github w
 
 Then you need to add own facebook developer configuration like app-id,app-secret,redirect-url in config.php file.
 
-Features for the Users : : 
+**Features for the Users : :** 
   * Download facebook photo album on your computer.
   * Watch FaceBook album photos in a slideshow.
   
-  API used :: 
+**API used ::** 
     * FaceBook Graph API 
     - FaceBook graph API is used to get all albums, album photos, album name of the authenticated users. For this you need PHP-Graph-SDK.
-  
+   
   
