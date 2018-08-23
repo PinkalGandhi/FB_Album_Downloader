@@ -21,5 +21,3 @@ Then you need to add own facebook developer configuration like app-id,app-secret
 **Demo Link **
  
 https://pinkalgandhi16.000webhostapp.com/index.php
-
-
