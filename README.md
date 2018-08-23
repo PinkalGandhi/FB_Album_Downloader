@@ -10,7 +10,12 @@ Then you need to add own facebook developer configuration like app-id,app-secret
   * Watch FaceBook album photos in a slideshow.
   
 **API used ::** 
+    
     * FaceBook Graph API 
     - FaceBook graph API is used to get all albums, album photos, album name of the authenticated users. For this you need PHP-Graph-SDK.
    
+**Note : :**
   
+  Store photos on the server side. and create a ZIP also.
+
+
