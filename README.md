@@ -18,4 +18,8 @@ Then you need to add own facebook developer configuration like app-id,app-secret
   
   Store photos on the server side. and create a ZIP also.
 
+**Demo Link **
+ 
+https://pinkalgandhi16.000webhostapp.com/index.php
+
 
