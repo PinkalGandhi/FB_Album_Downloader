@@ -174,7 +174,7 @@
         {
             
             document.getElementById("slideimage").src=imageurl[0];
-            setInterval(next, 3000);    
+            //setInterval(next, 3000);    
         }
         var i=0;
         function next()
@@ -209,6 +209,18 @@
             document.getElementById("box1").style.display="none";
             document.getElementById("loaddiv").style.display="none";
         }
+
+        //background job
+        // function backgroundjob(id)
+        // {
+        //     xhttp.onreadystatechange = function() {
+        //     if (this.readyState == 4 && this.status == 200) {
+        //         document.getElementById("demo").innerHTML = this.responseText;
+        //     }
+        //     };
+        //     xhttp.open("GET","AlbumZip.php?id=" + id, true);
+        //     xhttp.send();
+        // }
 
     </script>
 <style>
@@ -379,7 +391,7 @@
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXZ3vJtdK6aKAEWBovZFe4YKj1SGo9V20&callback=initMap"></script>
     <script src="js/maps.js"></script>
 
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
 
         var checkboxes = document.getElementsByClassName("calbumidval");
 
@@ -405,7 +417,7 @@
             }
         });
 
-    </script>
+    </script> -->
     
 </body>
 
